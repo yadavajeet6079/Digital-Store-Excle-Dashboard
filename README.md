@@ -6,7 +6,7 @@ The dashboard uses **PivotTables, PivotCharts, and Slicers** to make the analysi
 
 ## 📸 Dashboard Preview
 
-![Digital Store Annual Dashboard](screenshot/dashboard.png)
+[Digital Store Annual Dashboard](https://github.com/yadavajeet6079/Digital-Store-Excle-Dashboard/blob/main/screenshot/Dashboard.png)
 
 ## 🚀 Key Features
 
